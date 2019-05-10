@@ -1,6 +1,6 @@
 # Mid or Feed
 
-AI model that could determine a DOTA 2 player's role based on the statistics of their 20 most recent games. See included PDF of report for details.
+The aim was to make an AI model that could determine a DOTA 2 player's role based on the statistics of their 20 most recent games. See the included PDF documentation for more details.
 
 Submitted as a course requirement for _CS 180 (Artificial Intelligence)_.
 
